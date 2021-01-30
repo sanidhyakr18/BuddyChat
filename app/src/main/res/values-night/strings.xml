@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">BuddyChat</string>
     <string name="welcome_to_buddychat">Welcome to BuddyChat!</string>
     <string name="verify_your_number">Verify Your Number</string>
     <string name="please_enter_your_mobile_number_you_will_get_a_sms_including_a_verification_code">Please enter your mobile number. You will get a SMS including a verification code.</string>
